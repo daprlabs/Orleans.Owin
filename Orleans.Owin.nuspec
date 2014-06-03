@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Dapr.Orleans.Owin</id>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <title>Orleans OWIN Middleware</title>
     <authors>Reuben Bond</authors>
     <owners>Dapr Labs</owners>

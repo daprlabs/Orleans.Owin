@@ -4,7 +4,7 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace Orleans.OwinMiddleware
+namespace Orleans.Owin
 {
     using System;
     using System.IO;
@@ -12,7 +12,7 @@ namespace Orleans.OwinMiddleware
 
     using Orleans.Host.Azure.Client;
 
-    using Owin;
+    using global::Owin;
 
     /// <summary>
     /// The orleans middleware.
