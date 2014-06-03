@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Dapr.Orleans.Owin</id>
+    <version>1.0</version>
+    <title>Orleans OWIN Middleware</title>
+    <authors>Reuben Bond</authors>
+    <owners>Dapr Labs</owners>
+    <projectUrl>https://github.com/daprlabs/Orleans.Owin</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/daprlabs/Orleans.Owin/master/OrleansSDK_128x.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Microsoft Project Orleans middleware for OWIN.</description>
+    <!-- <releaseNotes>Summary of changes made in this release of the package.</releaseNotes> -->
+    <copyright>Copyright 2014</copyright>
+    <tags>Microsoft Orleans OWIN</tags>
+  </metadata>
+</package>
