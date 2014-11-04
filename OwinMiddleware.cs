@@ -10,10 +10,10 @@ namespace Orleans.Owin
     using System.IO;
     using System.Reflection;
 
+    using Orleans.Host;
+    using Orleans.Runtime.Configuration;
 
     using global::Owin;
-    using Orleans.Runtime.Configuration;
-    using Orleans.Host;
 
     /// <summary>
     /// The orleans middleware.
