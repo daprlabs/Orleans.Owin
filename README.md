@@ -5,7 +5,7 @@ Microsoft Project Orleans initialization middleware for OWIN.
 
 Usage is easy, simply insert the Orleans middleware into your OWIN pipeline using the `ConfigureOrleans()` extension method attached to `IAppBuilder`, in the `Orleans.Owin` namespace.
 
-```
+```C#
 public class Startup
 {
   public void Configuration(IAppBuilder app)
